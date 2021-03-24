@@ -1,0 +1,11 @@
+C:\Users\kadnikov\Desktop\MXAccessService\MXAccessServiceHost2\bin\x86\Debug\MXAccessServiceHost2.exe.config
+C:\Users\kadnikov\Desktop\MXAccessService\MXAccessServiceHost2\bin\x86\Debug\MXAccessServiceHost2.exe
+C:\Users\kadnikov\Desktop\MXAccessService\MXAccessServiceHost2\bin\x86\Debug\MXAccessServiceHost2.pdb
+C:\Users\kadnikov\Desktop\MXAccessService\MXAccessServiceHost2\bin\x86\Debug\MXAccessService.dll
+C:\Users\kadnikov\Desktop\MXAccessService\MXAccessServiceHost2\bin\x86\Debug\ArchestrA.MxAccess.dll
+C:\Users\kadnikov\Desktop\MXAccessService\MXAccessServiceHost2\bin\x86\Debug\MXAccessService.pdb
+C:\Users\kadnikov\Desktop\MXAccessService\MXAccessServiceHost2\obj\x86\Debug\MXAccessServiceHost2.csprojAssemblyReference.cache
+C:\Users\kadnikov\Desktop\MXAccessService\MXAccessServiceHost2\obj\x86\Debug\MXAccessServiceHost2.csproj.CoreCompileInputs.cache
+C:\Users\kadnikov\Desktop\MXAccessService\MXAccessServiceHost2\obj\x86\Debug\MXAccessServiceHost2.csproj.CopyComplete
+C:\Users\kadnikov\Desktop\MXAccessService\MXAccessServiceHost2\obj\x86\Debug\MXAccessServiceHost2.exe
+C:\Users\kadnikov\Desktop\MXAccessService\MXAccessServiceHost2\obj\x86\Debug\MXAccessServiceHost2.pdb
