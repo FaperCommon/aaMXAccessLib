@@ -1,5 +1,6 @@
 #  Wrapper for MXAccess Toolkit (Archestra, Wonderware).
-The module is designed to read data from Archestra objects.
+Before starting work, you must have registered MXAccess.
+Module is designed to read data from Archestra objects.
 MXAccess does not have support for x64 architecture. For this reason, for use in non-x86 applications, you must use the service.
 Any service implementation for deployment is possible (MXAccessMXServiceExample is a simple example of a service). For 
 
