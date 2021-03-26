@@ -11,5 +11,7 @@ namespace Intma.Libraries
         void AddGroupItem(IEnumerable<aaAttribute> items);
         void Advise(String tagName);
         void AdviseAll();
+        void Poke(string tagName, object value, DateTime? timeStamp = null);
+        IEnumerable<aaAttribute> GetCollection();
     }
 }

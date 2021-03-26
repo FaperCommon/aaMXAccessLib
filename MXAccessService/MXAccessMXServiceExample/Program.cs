@@ -19,6 +19,7 @@ namespace MXAccessMXServiceExample
             RemotingServices.Marshal(service, "MXAccessService", service.GetType());
             Console.WriteLine("Example service start");
             Console.ReadLine();
+            service.Unregister();
         }
     }
 }

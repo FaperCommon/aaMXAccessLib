@@ -78,8 +78,11 @@ namespace Intma.Libraries
             {
                 foreach (var item in items)
                 {
-                    int key = LMX_Server.AddItem(hLMX, item.TagName);
-                    hItems.Add(key, item);
+                    if(item.TagName != null)
+                    {
+                        int key = LMX_Server.AddItem(hLMX, item.TagName);
+                        hItems.Add(key, item);
+                    }
                 }
             }
         }
@@ -214,6 +217,11 @@ namespace Intma.Libraries
         public void Dispose()
         {
             Unregister();
+        }
+
+        public IEnumerable<aaAttribute> GetCollection()
+        {
+            return hItems.Values;
         }
     }
 }
