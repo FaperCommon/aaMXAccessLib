@@ -31,3 +31,6 @@ For remote services, you must use the method
 ```	
 After completing the work, you need to call Unregister();
 
+## Troubleshooting
+In Visual Studio, set your project to use "Prefer 32-bit". Project Properties → Build → "Prefer 32-bit" in Platform target. The code should be compiled as 32-bit.
+
